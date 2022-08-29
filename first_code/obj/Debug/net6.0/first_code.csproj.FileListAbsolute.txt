@@ -1,0 +1,15 @@
+C:\Users\alexd\Desktop\dotnet_test\first_code\bin\Debug\net6.0\first_code.exe
+C:\Users\alexd\Desktop\dotnet_test\first_code\bin\Debug\net6.0\first_code.deps.json
+C:\Users\alexd\Desktop\dotnet_test\first_code\bin\Debug\net6.0\first_code.runtimeconfig.json
+C:\Users\alexd\Desktop\dotnet_test\first_code\bin\Debug\net6.0\first_code.dll
+C:\Users\alexd\Desktop\dotnet_test\first_code\bin\Debug\net6.0\first_code.pdb
+C:\Users\alexd\Desktop\dotnet_test\first_code\obj\Debug\net6.0\first_code.csproj.AssemblyReference.cache
+C:\Users\alexd\Desktop\dotnet_test\first_code\obj\Debug\net6.0\first_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Desktop\dotnet_test\first_code\obj\Debug\net6.0\first_code.AssemblyInfoInputs.cache
+C:\Users\alexd\Desktop\dotnet_test\first_code\obj\Debug\net6.0\first_code.AssemblyInfo.cs
+C:\Users\alexd\Desktop\dotnet_test\first_code\obj\Debug\net6.0\first_code.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\dotnet_test\first_code\obj\Debug\net6.0\first_code.dll
+C:\Users\alexd\Desktop\dotnet_test\first_code\obj\Debug\net6.0\refint\first_code.dll
+C:\Users\alexd\Desktop\dotnet_test\first_code\obj\Debug\net6.0\first_code.pdb
+C:\Users\alexd\Desktop\dotnet_test\first_code\obj\Debug\net6.0\first_code.genruntimeconfig.cache
+C:\Users\alexd\Desktop\dotnet_test\first_code\obj\Debug\net6.0\ref\first_code.dll
